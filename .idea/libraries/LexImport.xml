@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LexImport">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/aiservices/lex-korean-workshop/Create-CF-Lex-KR-Workshop/Deploy-Package/Lambda-LexArtifact-Import/LexImport.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
